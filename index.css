@@ -131,15 +131,14 @@ header {
 .col-two {
     padding: 2rem 5rem;
     display: flex;
-    align-items: center;
     justify-content: space-between;
 }
 
 .col-three {
     padding: 2rem 5rem;
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    gap: 3rem;
 }
 
 .col-three h4 {
@@ -270,7 +269,7 @@ footer .logos{
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-evenly;
-        padding: 2rem 5rem;
+        padding: 2rem 2.5rem;
         gap: 1.5rem;
     }
 
